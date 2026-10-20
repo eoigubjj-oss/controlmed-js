@@ -20,9 +20,10 @@
       },
       "predictiveBackGestureEnabled": false
     },
-    "web": {
-      "output": "server",
-      "favicon": "./assets/images/favicon.png"
+"web": {
+  "output": "single",
+  "favicon": "./assets/images/favicon.png"
+}
     },
     "plugins": [
       [
@@ -42,4 +43,4 @@
       "reactCompiler": true
     }
   }
-}
+
